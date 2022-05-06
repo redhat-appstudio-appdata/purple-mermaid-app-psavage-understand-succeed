@@ -1,0 +1,4 @@
+bases:
+- components/basic-node-js/base
+resources:
+- common-storage-pvc.yaml
